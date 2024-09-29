@@ -1,0 +1,1 @@
+curl -Ls https://raw.githubusercontent.com/nolirium/aroc/master/01Root.sh | sudo sh
